@@ -139,9 +139,9 @@ li.nav-item {
 }
 .client {
 	width: 35%;
-	margin-left: 50%;
+	margin: auto;
 	border: 1px solid #dadada;
-	border-radius: 50px;
+	border-radius: 50%;
 	overflow: hidden;
 }
 .client img {
